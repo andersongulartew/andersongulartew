@@ -4,7 +4,7 @@
 - 👀 Tenho interesse em Frontend e QA.
 - 💻 Atualmente aprendendo HTML, CSS, e Javascript 
 - 🤝 Estou sempre aberto para aprender coisas novas e conhecer novas pessoas 
-- 🤔 Procuro melhorias para meu desenvolvimento pessoal com recursos e conselhos para me tornar um profissional melhor a cada dia!
+- 🤔 Procuro recursos e conselhos para me tornar um profissional melhor a cada dia!
 - 🌱 Em constante aprendizado..
 - 📫 Como entrar em contato comigo: você pode entrar em contato comigo via Linkedin ou Email . Sinta-se a vontade para fazer isso!
 
