@@ -2,7 +2,9 @@
 
 - 🔭 Cursando Análise e desenvolvimento de sistemas.
 - 🧩 Adoro ajudar e resolver problemas independentes de quais sejam.
+- 🤔 Procuro melhorias para meu desenvolvimento pessoal com recursos e conselhos para me tornar um profissional melhor a cada dia!
 - 🌱 Em constante aprendizado
+- 📫 Como entrar em contato comigo: você pode entrar em contato comigo via Linkedin ou Email . Sinta-se a vontade para fazer isso!
 
 <!---
 andersongulartew/andersongulartew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
