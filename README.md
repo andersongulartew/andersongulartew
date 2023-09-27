@@ -3,7 +3,7 @@
 <h1>Olá, sou o Anderson!!!</h1> 
 
 - 🔭 Cursando Análise e desenvolvimento de sistemas
-- 👀 Tenho interesse em Frontend e QA
+- 👀 Tenho interesse na área de Frontend e QA
 - 💻 Atualmente aprendendo HTML, CSS, e Javascript 
 - 🤝 Estou sempre aberto para aprender coisas novas e conhecer novas pessoas 
 - 🌱 Procuro recursos e conselhos para me tornar um profissional melhor a cada dia!
