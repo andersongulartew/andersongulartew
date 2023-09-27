@@ -1,7 +1,7 @@
 ![image](https://github.com/andersongulartew/andersongulartew/assets/146239794/1242229d-464c-4bea-b0c0-61bda4d03c42)
 
-- 🔭 Cursando Análise e desenvolvimento de sistemas.
-- 👀 Tenho interesse em Frontend e QA.
+- 🔭 Cursando Análise e desenvolvimento de sistemas
+- 👀 Tenho interesse em Frontend e QA
 - 💻 Atualmente aprendendo HTML, CSS, e Javascript 
 - 🤝 Estou sempre aberto para aprender coisas novas e conhecer novas pessoas 
 - 🤔 Procuro recursos e conselhos para me tornar um profissional melhor a cada dia!
