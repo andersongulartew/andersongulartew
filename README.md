@@ -3,8 +3,7 @@
 <h1>Olá, sou o Anderson!!!</h1> 
 
 - 🔭 Cursando Análise e desenvolvimento de sistemas
-- 👀 Tenho interesse na área de Frontend e QA
-- 💻 Atualmente aprendendo HTML, CSS, e Javascript 
+- 💻 Atualmente aprendendo HTML, CSS, e Javascript, Java,Teste de Software,MySQL 
 - 🤝 Estou sempre aberto para aprender coisas novas e conhecer novas pessoas 
 - 🌱 Procuro recursos e conselhos para me tornar um profissional melhor a cada dia!
 - 📫 Como entrar em contato comigo: você pode entrar em contato comigo via Linkedin ou Email . Sinta-se a vontade para fazer isso!
